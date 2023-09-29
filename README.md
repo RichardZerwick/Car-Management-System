@@ -27,8 +27,8 @@ npm: npm is the package manager for Node.js and should be included with your Nod
 ## Setup Instructions
 Follow these steps to set up and run the Car Management System app on your local machine:
 
-1. Clone the Repository: 
-   Open your terminal and navigate to the directory where you want to clone the repository. Then, run the following command: git clone https://github.com/your-username/car-management-system.git
+1. Download and unzip project file: 
+   Download the 'Internship-Project' file and then unzip
 
 2. Navigate to the Project Directory:
    Change your current directory to the project's root folder: cd car-management-system
